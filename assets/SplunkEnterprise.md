@@ -32,3 +32,7 @@ Splunk Enterprise is a data analytics platform used for searching, monitoring, a
 - **Vendor Lock-in:** Dependency on Splunk for ongoing support and updates.
 
 Splunk Enterprise is widely adopted across industries for its robust data analytics capabilities, enabling organizations to derive valuable insights and drive informed decisions from their machine-generated data.
+
+here is my the splash enterprose login screen.
+
+[ Splunk Enterprise Login ](https://camo.githubusercontent.com/baf82611796117f4b055262cb156fa96a9333a6d3fc389dd00edac80e9d41d28/68747470733a2f2f692e696d6775722e636f6d2f656a524b4c36732e706e67)
