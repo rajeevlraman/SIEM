@@ -39,6 +39,5 @@ Security Onion is an open-source Linux distribution used for network security mo
 Security Onion is widely used by organizations and security professionals for network security monitoring, threat detection, and incident response due to its powerful features and open-source flexibility.<br><br>
 
 this is a screen shot of services running on my Security Onion Instance in Virtual Box as a standlaone installation.<br><br>
-
 [Security Onion Services](https://camo.githubusercontent.com/f1695499f90aae98fb45dcb267afd49fcd267c85a782967c947f9960273523df/68747470733a2f2f692e696d6775722e636f6d2f417070734876662e706e67)
 
