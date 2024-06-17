@@ -33,26 +33,35 @@ Security Onion provides a comprehensive suite of tools and capabilities for netw
 <a name="install"></a>
 # Installation of Security Onion
 
--	Security Onion needs two NIC’s, one to monitor traffic and the other for its management.
--	In my case I have a single NIC so I am going to assign it the same adaptor for both the networks.
--	I will enable the promiscuous mode on one of them. This allows it to work as a span port.
--	Once the configuration is complete, we can start the VM.
--	Security Onion Installation is a time-consuming process. It depends on the internet connection and the server resources.
--	Once the installation starts it asks you to agree to the terms by typing the word ` AGREE `
--	Setup an Administrator  user name and Password and hit enter to continue
--	the installation capmpletes after a while and then needs to reboot.
--	once rebooted the configuration starts.
--	At this stage it is advisable to take a snapshot. just incase anything goes wrong yuou can start from here again.
--	continue the installationand configuration wizard.
--	choose the type of install. I choose the `Standalone installation.`
--	On the choose the install conditions select  `standard`
--	Choose `Automatic` for OS patch schedule
--	For the IPV4 there is an option for `Static` and `DHCP`, ill chose DHCP.
--	this interface is for the management of Security Onion.
--	Type in the Gateway address. in my case this is my Pfsense Ip address
--	For the DNS I will choose the same ip address as my pfsense.
--	It will need an interface for monitoring traffic. Specify an IP or a network.
--	We need a email address and password to login ti the Web Interfaces of all services.
--	The installation Process starts and this might take a while.
--	once the installation is complete it provides yoou with details of the intstallation.
--	
+
+<!-- -------------------------- -->
+- Security Onion requires two NICs: one for monitoring traffic and another for management.
+- In my case, I only have a single NIC, so I will assign it to both networks.
+- I will enable `promiscuous mode` on one NIC to function as a span port.
+- After configuring, start the VM.
+- Installing Security Onion is time-consuming and depends on internet speed and server resources.
+- During installation, agree to terms by typing `AGREE`.
+- Set up an administrator `username` and `password`, then press Enter to continue.
+- The installation completes after some time and requires a reboot.
+- Post-reboot, configuration begins.
+- It's advisable to take a `snapshot` at this stage in case of issues, allowing you to revert.
+- Continue with the installation and configuration wizard.
+- Choose `Standalone installation` for installation type.
+- Opt for `Standard` in the install conditions.
+- Select `Automatic` for OS patch schedule.
+- Choose DHCP for IPv4 configuration.
+- This interface manages Security Onion.
+- Enter the Gateway address; in my case, it's my Pfsense IP address.
+- For DNS, I will use the same IP address as my Pfsense.
+- Specify an IP or network for monitoring traffic.
+- Provide an `email address` and `password` for accessing `web interfaces` of all services.
+- The installation process begins, which may take some time.
+- Once installation is complete, details will be provided.
+- Access the web interface from a device on the specified network.
+- I'll use my Ubuntu Desktop or Kali, configured as the Security Onion Management Terminal.
+- Enter the email and password to access the Security Onion Dashboard.
+- After authentication, an overview of Security Onion with its services will be displayed.
+- Various services can be accessed from the left-hand menu.
+- On the right, click on `Configuration` to configure Security Onion with sensors for monitoring.
+- Management device IP address can also be specified.
+- All configurations can be done via the command line interface using SSH.
