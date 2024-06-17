@@ -36,6 +36,9 @@ Security Onion provides a comprehensive suite of tools and capabilities for netw
 
 <!-- -------------------------- -->
 - Security Onion requires two NICs: one for monitoring traffic and another for management.
+
+<img align="center" src="" /><br>
+
 - In my case, I only have a single NIC, so I will assign it to both networks.
 - I will enable `promiscuous mode` on one NIC to function as a span port.
 - After configuring, start the VM.
@@ -52,7 +55,7 @@ Security Onion provides a comprehensive suite of tools and capabilities for netw
 - Choose DHCP for IPv4 configuration.
 - This interface manages Security Onion.
 - Enter the Gateway address; in my case, it's my Pfsense IP address.
-- For DNS, I will use the same IP address as my Pfsense.
+- For DNS, I will use the standard IP ` 8.8.8.8 ` and ` 8.8.4.4 `
 - Specify an IP or network for monitoring traffic.
 - Provide an `email address` and `password` for accessing `web interfaces` of all services.
 - The installation process begins, which may take some time.
