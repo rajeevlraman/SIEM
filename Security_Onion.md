@@ -16,7 +16,7 @@ Security Onion is a Linux distribution focused on intrusion detection, network s
 - **Zeek (Bro):** Network analysis framework for traffic inspection, protocol analysis, and logging.
 - **Elastic Stack:** Includes Elasticsearch, Logstash, and Kibana for data indexing, parsing, storage, and visualization.
 - **Wazuh:** Host-based intrusion detection system (HIDS) for endpoint security monitoring and threat detection.
-- **Snort:** Network intrusion detection and prevention system (NIDS/NIPS) for real-time traffic analysis.
+- **Grafana:** Grafana displays wonderful dashboards to visualize the data and interpret the trafiic.
 
 ### Use Cases:
 
