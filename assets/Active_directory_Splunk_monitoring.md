@@ -63,7 +63,7 @@
    - provide the IP address of each machine if possible.
    - provide the data flow in dotted lines.
 
-![image](/assets/images/Image2.jpg)
+![image](/assets/images/image01.png)
 
 4. **Example Logical Diagram:**
    - **Router/Gateway:** Connects the internal network to the internet. (Pfsense)
