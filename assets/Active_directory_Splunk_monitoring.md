@@ -14,7 +14,7 @@
      - Creating a Network toplogy for the lab
      - Creating a logical workflow Diagram for the lab
      - Setting up the Virtual environment for the lab<br><br>
-- ### [Task 2:](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task2.md)
+- ### [Task 2:](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_project_task2.md)
      - Installing Virtual Machines<br><br>
 - ### [Task 3:](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task3.md)
      - Setup Windows Active Directory
