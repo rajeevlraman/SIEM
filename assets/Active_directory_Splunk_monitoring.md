@@ -72,7 +72,7 @@ We can Create various Alerts and Dashboards in Splunk and Monitor these Events.
    - Use tools like Microsoft Visio, Lucidchart, or draw.io to create your network diagram.
    - I have used draw.io app in windows / also can be used online.
 
-![image](/assets/images/image01.png)
+![image](/assets/images/image1.png)
 
 2. **Design Your Network Topology:**
    - Map out the placement of each virtual machine and its role:
