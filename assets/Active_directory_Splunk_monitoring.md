@@ -29,6 +29,30 @@
      - Perform Test using redatomic team using MITRE ATT&CK <br><br>
 
 # TAKEAWAY FROM THE LAB
+in this Lab we can refresh our skills:
+
+- Virtualization skills, installing VM’s.
+- Windows Domain Controller.
+- Creating an Active Directory.
+- joining a windows 10 machine to the Domain.
+- Creating organizational Units.
+- Creating users in the Organizational units.
+- Installing Sysmon in windows.
+
+We can Learn Something New:
+
+- creating a Splunk Server.
+- Installing and configuring Splunk Forwarders in windows.
+- Creating Indexes in Splunk Server.
+- monitoring the events in Splunk event search.
+- Install Atomicred Team.
+- Run Atomicred Team Tests using MITRE ATT&CK framework
+- Use of PowerShell to run tests.
+
+the idea is to learn how to monitor events in windows machines using Splunk.
+Splunk uses Forwarding agents which forward the logs and events to the Splunk Server.
+Sysmon has to be installed into windows and is used to collect windows events and logs.
+We can Create various Alerts and Dashboards in Splunk and Monitor these Events.
 
 
 ![image](https://github.com/rajeevlraman/SIEM/assets/85452477/bcb3bf3a-7658-4b88-a852-a4266d28eb1a)
