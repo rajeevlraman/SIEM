@@ -32,17 +32,18 @@
 
 # TAKEAWAY FROM THE LAB
 
-in this Lab we can refresh our skills:
+in this Lab we can refresh our skills:<br><br>
 
 - virtualization skills, installing VM’s.
+ 
 - Windows Domain Controller.
 - Creating an Active Directory.
 - joining a windows 10 machine to the Domain.
 - Creating organizational Units.
 - Creating users in the Organizational units.
-- Installing Sysmon in windows.
+- Installing Sysmon in windows.<br><br>
 
-We can Learn Something New:
+We can Learn Something New:<br><br>
 
 - Creating a Splunk Server.
 - Installing and configuring Splunk Forwarders in windows.
@@ -50,7 +51,7 @@ We can Learn Something New:
 - Monitoring the events in Splunk event search.
 - Install Atomicred Team.
 - Run Atomicred Team Tests using MITRE ATT&CK framework
-- Use of PowerShell to run tests.
+- Use of PowerShell to run tests.<br><br>
 
      The purpose is to learn how to monitor events in windows machines using Splunk.
 Splunk uses Forwarding agents which forward the logs and events to the Splunk Server.
