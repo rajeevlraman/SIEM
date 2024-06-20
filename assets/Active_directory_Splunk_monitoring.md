@@ -30,26 +30,8 @@
 
 # TAKEAWAY FROM THE LAB
 
-In this Lab we can refresh our skills:
-- virtualization skills, installing VM’s.
-- Windows Domain Controller.
-- Creating an Active Directory.
-- Joining a windows 10 machine to the Domain.
-- Creating organizational Units.
-- Creating users in the Organizational units.
-- Installing Sysmon in windows.
 
-The additional skills we learn:
- - Creating a Splunk Server.
- - Installing and configuring Splunk Forwarders in windows.
- - Creating Indexes in Splunk Server.
- - monitoring the events in Splunk event search.
- - Install Atomicred Team.
- - Run Atomicred Team Tests using MITRE ATT&CK framework
- - Use of PowerShell to run tests.
-#
-
-![image](https://github.com/rajeevlraman/SIEM/assets/85452477/3fafef65-e4d4-4206-b16a-189988754b89)
+![image](https://github.com/rajeevlraman/SIEM/assets/85452477/bcb3bf3a-7658-4b88-a852-a4266d28eb1a)
 
 
 
