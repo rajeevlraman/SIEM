@@ -39,8 +39,8 @@
 
 
 ### Objectives
-- Understand the overall architecture and purpose of the Active Directory setup.
 - Create a logical network diagram to plan the virtual infrastructure.
+- Understand the overall architecture and purpose of the Active Directory setup.
 - Determine the hardware and software requirements for the project.
 
 ### Creating a Logical Diagram
@@ -48,22 +48,21 @@
    - Use tools like Microsoft Visio, Lucidchart, or draw.io to create your network diagram.
    - I have used draw.io app in windows / also can be used online.
 
-![image](/assets/images/Image2.jpg)
+![image](/assets/images/Image01.png)
 
 2. **Design Your Network Topology:**
    - Map out the placement of each virtual machine and its role:
      - **Windows Server 2022:** Primary Domain Controller.
      - **Windows 10 Client:** Workstation for domain joining.
      - **Kali Linux:** For penetration testing.
-     - **Ubuntu Server:** For additional services.
-   - Include network elements like routers, switches, and IP addressing schemes.
-   - I have a Pfsense as a firewall and all traffic is through pfsense.
+     - **Ubuntu Server:** For additional services, in this case Splunk.
+     - since My lab already has a Pfsense firewall, I'll keep it in the setup..
 
 3. **Diagram Elements:**
    - Represent each VM with clear icons and labels.
    - Connect the VMs to depict their network relationships.
 
-![image](/assets/images/Image2.jpg)
+![image](/assets/images/Image01.jpg)
 
 4. **Example Logical Diagram:**
    - **Router/Gateway:** Connects the internal network to the internet.
