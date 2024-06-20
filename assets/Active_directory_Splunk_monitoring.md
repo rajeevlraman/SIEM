@@ -54,9 +54,9 @@ Splunk uses Forwarding agents which forward the logs and events to the Splunk Se
 Sysmon has to be installed into windows and is used to collect windows events and logs.
 We can Create various Alerts and Dashboards in Splunk and Monitor these Events.
 
-
+<!--
 ![image](https://github.com/rajeevlraman/SIEM/assets/85452477/bcb3bf3a-7658-4b88-a852-a4266d28eb1a)
-
+-->
 
 
 ## Task 1: Creating a Logical Diagram and Hardware Requirements
