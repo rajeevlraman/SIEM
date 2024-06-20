@@ -63,7 +63,7 @@
    - Represent each VM with clear icons and labels.
    - Connect the VMs to depict their network relationships.
 
-![image](/assets/images/Image3.jpg)
+![image](/assets/images/Image2.jpg)
 
 4. **Example Logical Diagram:**
    - **Router/Gateway:** Connects the internal network to the internet.
