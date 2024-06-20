@@ -48,6 +48,8 @@
    - Use tools like Microsoft Visio, Lucidchart, or draw.io to create your network diagram.
    - I have used draw.io app in windows / also can be used online.
 
+![image](/assets/images/Image2.jpg)
+
 2. **Design Your Network Topology:**
    - Map out the placement of each virtual machine and its role:
      - **Windows Server 2022:** Primary Domain Controller.
@@ -60,6 +62,8 @@
 3. **Diagram Elements:**
    - Represent each VM with clear icons and labels.
    - Connect the VMs to depict their network relationships.
+
+![image](/assets/images/Image1.jpg)
 
 4. **Example Logical Diagram:**
    - **Router/Gateway:** Connects the internal network to the internet.
