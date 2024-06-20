@@ -1,3 +1,58 @@
+# WINDOWS ACTIVE DIRECTORY MONITORING BY SPLUNK ENTERPISE
+
+## OBJECTIVE:<br>
+
+- Setting up and IDS for Windows machines using Splunk Enterprise
+- Redatomic Testing on windows using MITRE ATT&CK framework.
+- Automating Alerts using atomicred team<br><br>
+
+## TASKS:<br>
+
+- ### Task 1:
+     - Creating a Network toplogy for the lab
+     - Creating a logical workflow Diagram for the lab
+     - Setting up the Virtual environment for the lab<br><br>
+- ### Task 2:
+     - Installing Virtual Machines<br><br>
+ - ### Task 3:
+     - Setup Windows Active Directory
+     - Domain join windows 10 pc
+     - Create Organizational Units and users
+     - Install and configure Sysmon <br><br>
+- ### Task 4:
+     - Install and configure Splunk Enterprise
+     - Install and configure Splunk Forwarder<br><br> 
+- ### Task 5:
+     - Setup Kali Linux for Brute force attack
+     - Monitor Splunk for the attack events
+     - setup redatomic team on windows
+     - Perform Test using redatomic team using MITRE ATT&CK <br><br>
+
+# TAKEAWAY FROM THE LAB
+
+In this Lab we can refresh our skills:
+- virtualization skills, installing VM’s.
+- Windows Domain Controller.
+- Creating an Active Directory.
+- Joining a windows 10 machine to the Domain.
+- Creating organizational Units.
+- Creating users in the Organizational units.
+- Installing Sysmon in windows.
+
+The additional skills we learn:
+ - Creating a Splunk Server.
+ - Installing and configuring Splunk Forwarders in windows.
+ - Creating Indexes in Splunk Server.
+ - monitoring the events in Splunk event search.
+ - Install Atomicred Team.
+ - Run Atomicred Team Tests using MITRE ATT&CK framework
+ - Use of PowerShell to run tests.
+#
+
+![image](https://github.com/rajeevlraman/SIEM/assets/85452477/3fafef65-e4d4-4206-b16a-189988754b89)
+
+
+
 ## Task 1: Creating a Logical Diagram and Hardware Requirements
 
 
