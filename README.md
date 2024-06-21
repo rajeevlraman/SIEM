@@ -45,7 +45,7 @@ SIEM solutions play a critical role in modern cybersecurity by providing compreh
 
 [<img align="center" src="https://i.imgur.com/AppsHvf.png" />](https://github.com/rajeevlraman/SIEM/blob/main/Security_Onion.md)<br>
 <b>Splunk</b>
-[<img align="center" src="https://i.imgur.com/ejRKL6s.png" />](https://github.com/rajeevlraman/SIEM/blob/main/assets/Active_directory_Splunk_monitoring.md)<br>
+[<img align="center" src="https://i.imgur.com/ejRKL6s.png" />](https://github.com/rajeevlraman/SIEM/blob/main/assets/SplunkEnterprise.md)<br>
 <b></b>
 <img align="center" src="" /><br>
 <b></b>
