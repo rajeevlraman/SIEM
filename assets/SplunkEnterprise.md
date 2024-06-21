@@ -1,4 +1,4 @@
-**Splunk Enterprise**
+# Splunk Enterprise
 
 Splunk Enterprise is a data analytics platform used for searching, monitoring, and analyzing machine-generated big data via a web-style interface. It specializes in collecting and indexing machine data from various sources to provide actionable insights and operational intelligence.
 
@@ -31,8 +31,10 @@ Splunk Enterprise is a data analytics platform used for searching, monitoring, a
 - **Data Volume:** Costs may increase with higher data ingestion and retention requirements.
 - **Vendor Lock-in:** Dependency on Splunk for ongoing support and updates.
 
-Splunk Enterprise is widely adopted across industries for its robust data analytics capabilities, enabling organizations to derive valuable insights and drive informed decisions from their machine-generated data.
+Splunk Enterprise is widely adopted across industries for its robust data analytics capabilities, enabling organizations to derive valuable insights and drive informed decisions from their machine-generated data.<br><br>
 
-here is my the splash enterprose login screen.
+[Integrating SPlunk with Active Directory](https://github.com/rajeevlraman/SIEM/blob/main/assets/Active_directory_Splunk_monitoring.md)
 
-[ Splunk Enterprise Login ](https://camo.githubusercontent.com/baf82611796117f4b055262cb156fa96a9333a6d3fc389dd00edac80e9d41d28/68747470733a2f2f692e696d6775722e636f6d2f656a524b4c36732e706e67)
+here is my the splash enterprose login screen.<br>
+
+[<img align="center" src="https://i.imgur.com/ejRKL6s.png" />](https://github.com/rajeevlraman/SIEM/blob/main/assets/SplunkEnterprise.md)<br>
