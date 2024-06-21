@@ -1,4 +1,4 @@
-# WINDOWS ACTIVE DIRECTORY MONITORING USING SPLUNK ENTERPISE
+# Integrating Splunk with Active Directory for Enhanced Security and Insights
 [Task 1](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task1.md), [Task 2](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_project_task2.md), [Task 3](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task3.md), [Task 4](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task4.md), [Task 5](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task5.md)<br><br>
 
 ![image](/assets/images/image1.png)
