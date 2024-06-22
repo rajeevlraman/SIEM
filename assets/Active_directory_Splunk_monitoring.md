@@ -9,7 +9,7 @@
 - Redatomic Testing on windows using MITRE ATT&CK framework.
 - Automating Alerts using atomicred team<br><br>
 
-[Task 1](https://github.com/rajeevlraman/SIEM/edit/main/assets/AD_Project_task1.md), [Task 2](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_project_task2.md), [Task 3](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task3.md), [Task 4](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task4.md), [Task 5](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task5.md)
+[Task 1](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task1.md), [Task 2](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_project_task2.md), [Task 3](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task3.md), [Task 4](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task4.md), [Task 5](https://github.com/rajeevlraman/SIEM/blob/main/assets/AD_Project_task5.md)
 
 ## TASKS:<br>
 
