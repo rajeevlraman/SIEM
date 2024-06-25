@@ -1,4 +1,4 @@
-<h1>SIEM<br/></h1>
+# SIEM          [`Home`](https://github.com/rajeevlraman)<br>
 <br>
 <b>Lab Overview</b><br><br>
 <b>Welcome to my cybersecurity homelab! Dive into the heart of digital defense with a robust setup featuring SIEM (Security Information and Event Management) powered by Security Onion, Splunk for advanced log analysis, fortified by the protective walls of pfSense, and bolstered by the vigilant intrusion detection system, Snort. Explore the intricate web of network security, threat detection, and incident response in this hands-on environment. Join me on a journey of learning and experimentation as we fortify our digital fortresses against cyber threats, one configuration at a time.</b><br>
