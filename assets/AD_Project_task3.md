@@ -30,7 +30,7 @@
    - Right click on Domain Controller and select new Organizational Unit
    - Create IT and HR OU.
 
-    ![image](/assets/images/image22.jpg)<br>
+    ![image]([/assets/images/image22.jpg](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image22.jpg))<br>
 
    - In each OU create a new user.<br>
 
