@@ -50,11 +50,11 @@
 
      - This helps collect the logs better, because NT SERVICE might be bound by OS rules.
 
-    ![image](/assets/images/image44.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image44.jpg)<br>
 
-    ![image](/assets/images/image45.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image45.jpg)<br>
 
-    ![image](/assets/images/image46.jpg)<br>   
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image46.jpg)<br>   
 
      - You have to restart the the Splunk Forwarder Service.
 
@@ -65,19 +65,19 @@
 
    - You can clcik on ` Settings ` and then select ` Indexes `.
 
-    ![image](/assets/images/image48.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image48.jpg)<br>
 
    - You can create a ` New Index ` and call it ` endpoint `
 
-    ![image](/assets/images/image49.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image49.jpg)<br>
 
    - The default settings are fine, so you can save the Index.
 
-    ![image](/assets/images/image50.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image50.jpg)<br>
 
     - In the Settings click on Forwarding and Recieving.
 
-    ![image](/assets/images/image52.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image52.jpg)<br>
 
     - Click on Configure Recieving and add the Port specified in the Forwarder.
 
@@ -85,15 +85,15 @@
 
     - Now if You open a ` New Search `,  and filter ` Index = endpoint ` you can see there are events listed.
 
-    ![image](/assets/images/image54.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image54.jpg)<br>
 
     - click on he Host on the left side menu and you can see 1 or 2 based on the forwarder services running.
 
-    ![image](/assets/images/image56.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image56.jpg)<br>
 
     - you can see the Source as well.
 
-    ![image](/assets/images/image57.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image57.jpg)<br>
 
 
    - Specify the input path and source type for Sysmon logs.<br><br>
