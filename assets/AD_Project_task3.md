@@ -30,12 +30,12 @@
    - Right click on Domain Controller and select new Organizational Unit
    - Create IT and HR OU.
 
-    ![image]([/assets/images/image22.jpg](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image22.jpg))<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image22.jpg)<br>
 
    - In each OU create a new user.<br>
 
-    ![image](/assets/images/image23.jpg)<br>
-    ![image](/assets/images/image25.jpg)<br>   
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image23.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image25.jpg)<br>   
 
 ### Joining a Windows 10 PC to the Domain
 1. **Network Configuration:**
@@ -57,7 +57,7 @@
    - Get Sysmon from the [Microsoft Sysinternals](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) website.<br><bR>
    - Download a config file from github ` sysmonconfig.xml ` <br><br>    
 
-    ![image](/assets/images/image38.jpg)<br>    
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image38.jpg)<br>    
 
 
 
@@ -68,9 +68,9 @@
    - ```bash
      sysmon64.exe -i sysmonconfig.xml     
      ```
-    ![image](/assets/images/image39.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image39.jpg)<br>
 
-    ![image](/assets/images/image40.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image40.jpg)<br>
 
 
    - We need to ceate a inputs.conf file in the local directory of Sysmon.
@@ -113,7 +113,7 @@
    - Execute the Sysmon installation with a configuration file:<br>
    - Customize the `sysmonconfig.xml` file for your logging needs or use a standard config from trusted sources.
 
-    ![image](/assets/images/image41.jpg)<br>
+    ![image](https://github.com/rajeevlraman/SIEM/blob/main/assets/images/Image41.jpg)<br>
 
    - This completes the Sysmon installation.
    - just reboot the PC.
