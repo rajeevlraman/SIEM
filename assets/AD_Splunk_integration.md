@@ -42,6 +42,6 @@ To begin leveraging Splunk for Active Directory integration, follow these resour
 - **[Splunk App for Active Directory](https://splunkbase.splunk.com/app/3207/)**
 - **[Splunk Security Essentials](https://splunkbase.splunk.com/app/3435/)**
 
-
-## **[Let's Integration Splunk with  Windows Active Directory](https://github.com/rajeevlraman/SIEM/blob/main/assets/Active_directory_Splunk_monitoring.md)**<br><br>
+# *** LAB ACTIVITY ***
+## **[Let's see the Integration of Splunk with  Windows Active Directory](https://github.com/rajeevlraman/SIEM/blob/main/assets/Active_directory_Splunk_monitoring.md)**<br><br>
 ![Splunk and Active Directory Dashboard](https://via.placeholder.com/800x400.png?text=Splunk+Active+Directory+Dashboard)
